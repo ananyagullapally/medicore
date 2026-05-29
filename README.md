@@ -109,7 +109,8 @@ medicore/
 
 ## Course Context
 
-Built as the final project for **ISM 6208 – Data Warehousing** at the **University of South Florida** (Spring 2026).
+Built as the final project for ISM 6208 – Data Warehousing at the University of South Florida (Spring 2026).
+
 ---
 
 ## References
