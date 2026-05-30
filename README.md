@@ -62,6 +62,10 @@ FACT_READMISSION
 
 **Fact table grain:** one record per hospital, per clinical measure, per reporting period.
 
+![OLTP Model](OLTP-model-corrected.png)
+
+![Star Schema](star-schema-corrected.png)
+
 ---
 
 ## Key Analytical Findings
